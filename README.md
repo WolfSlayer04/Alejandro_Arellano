@@ -1,5 +1,5 @@
-# ¡Hola, Mundo! 👋 
-Alejandro Alonso Arellano Madrigal
+# ¡Hola, Mundo! Soy Alejandro Alonso Arellano Madrigal👋 
+
 
 ## 🚀 Sobre mí
 
