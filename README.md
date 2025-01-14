@@ -1,6 +1,4 @@
 # ¡Hola, Mundo! Soy Alejandro Alonso Arellano Madrigal👋 
-
-
 ## 🚀 Sobre mí
 
 ¡Soy un desarrollador apasionado por crear soluciones innovadoras! Me encanta aprender nuevas tecnologías y compartir conocimientos con la comunidad.
